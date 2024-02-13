@@ -1,0 +1,13 @@
+#Ignore compiled files
+*.elf
+*.nds
+
+#Ignore certain directories
+
+build/
+extra/
+grit/
+imgsplitter/
+screenshots/
+.vscode/
+
