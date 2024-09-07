@@ -1,8 +1,8 @@
-### Original Campaign for the Nintendo DS
+# Original Campaign for the Nintendo DS
 
-# This is a Nintendo DS port of Original Campaign (a game concept made by a friend of mine), I worked on this during the break between my Fall 2023 and Spring 2024 semesters.
+This is a Nintendo DS port of Original Campaign (a game concept made by a friend of mine), I worked on this during the break between my Fall 2023 and Spring 2024 semesters.
 
-Created using the [NightFox](https://github.com/knightfox75/nds_nflib) and [Libnds](https://libnds.devkitpro.org/) libraries.
+### Created using the [NightFox](https://github.com/knightfox75/nds_nflib) and [Libnds](https://libnds.devkitpro.org/) libraries.
 
 # Compilation instructions:
 
