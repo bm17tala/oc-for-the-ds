@@ -4,8 +4,8 @@ This is a Nintendo DS port of Original Campaign (a game concept made by a friend
 
 Created using the [NightFox](https://github.com/knightfox75/nds_nflib) and [Libnds](https://libnds.devkitpro.org/) libraries.
 
-# Compilation instructions:
+# Instructions:
 
 * Windows Instructions: 
 
-Be sure that [devkitPro](https://github.com/devkitPro/installer/releases) is installed on your system (needed for libNDS), and that it is included as a system environment variable named DEVKITPRO which paoints to the installation. Then download and extract the zip file of this repository, and run 'make' within the root of the extracted directory. Then copy the outputted .nds file to either the [no$gba](https://www.nogba.com/) Nintendo DS emulator to emulate, or to a real console.
+Download the latest release of this game from [the releases page](https://github.com/bm17tala/oc-for-the-ds/releases), then run the downloaded .nds file within either the [no$gba](https://www.nogba.com/) Nintendo DS emulator to emulate (requires Windows), or to a real console.
