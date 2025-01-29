@@ -8,4 +8,4 @@ Created using the [NightFox](https://github.com/knightfox75/nds_nflib) and [Libn
 
 * Windows Instructions: 
 
-Be sure that [devkitPro](https://github.com/devkitPro/installer/releases) is installed on your system, and that it is included as a system environment variable named DEVKITPRO which paoints to the installation. Then download and extract the zip file of this repository, and run 'make' within the root of the extracted directory. Then copy the outputted .nds file to either the [no$gba](https://www.nogba.com/) Nintendo DS emulator to emulate, or to a real console.
+Be sure that [devkitPro](https://github.com/devkitPro/installer/releases) is installed on your system (needed for libNDS), and that it is included as a system environment variable named DEVKITPRO which paoints to the installation. Then download and extract the zip file of this repository, and run 'make' within the root of the extracted directory. Then copy the outputted .nds file to either the [no$gba](https://www.nogba.com/) Nintendo DS emulator to emulate, or to a real console.
