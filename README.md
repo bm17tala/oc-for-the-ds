@@ -11,10 +11,12 @@ Download the latest release of this game from [the releases page](https://github
 # Screenshots
 
 * Using the [no$gba](https://www.nogba.com/) emulator
+
 ![The game menu within the emulator](/screenshots/menu_emulator.png?raw=true)
 ![In-game experience within the emulator](/screenshots/ingame_emulator.png?raw=true)
 
 
 * Using a real console (Nintendo DSi XL)
+
 ![The game menu on the console](/screenshots/menu_console.png?raw=true)
 ![In-game experience on the console](/screenshots/ingame_console.png?raw=true)
