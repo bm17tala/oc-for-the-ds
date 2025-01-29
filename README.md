@@ -18,5 +18,5 @@ Download the latest release of this game from [the releases page](https://github
 
 * Using a real console (Nintendo DSi XL)
 
-![The game menu on the console](/screenshots/menu_console.png?raw=true)
-![In-game experience on the console](/screenshots/ingame_console.png?raw=true)
+![The game menu on the console](/screenshots/menu_console.jpeg?raw=true)
+![In-game experience on the console](/screenshots/ingame_console.jpeg?raw=true)
